@@ -1,0 +1,23 @@
+{
+  "name": "tasteeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^5.1.0",
+    "json-server": "^0.17.0",
+    "sass": "^1.53.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
